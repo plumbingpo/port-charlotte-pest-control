@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://portcharlottepestcontrolco.com/sitemap.xml
